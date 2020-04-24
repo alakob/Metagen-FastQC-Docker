@@ -1,5 +1,5 @@
 # Metagen-FastQC-Docker
-A containerized version of Metagen-FastQC toolkit
+A containerized version of [Metagen-FastQC](https://github.com/Finn-Lab/Metagen-FastQC) toolkit
 ![alt text](fig/docker_logo_horizontal.png)
 
 ### Prerequisite.
